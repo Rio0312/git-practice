@@ -1,1 +1,2 @@
-helooo
+Hello Git!
+I am learning Git.
